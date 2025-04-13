@@ -1,0 +1,12 @@
+app:
+  name: payton
+
+http:
+  # http服务监听, 如果不想别人可以访问就把0.0.0.0改为127.0.0.1
+  listen: 0.0.0.0:8000
+
+ton:
+  # ton助记词
+  mnemonic: ""
+api:
+  key: 9C14A4CF0E5AD626830A45E4E6669A4F64209F69C67807688529C7EA6381F850
